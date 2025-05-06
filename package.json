@@ -1,0 +1,25 @@
+{
+    "name": "boxit-auth",
+    "version": "1.0.0",
+    "description": "",
+    "types": "index.d.ts",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mohammadFeiz/boxit-auth.git"
+    },
+    "dependencies": {
+        "react-oidc-context": "^2.2.2",
+        "aio-apis": "^9.0.0",
+        "react-router-dom": "^7.4.0"
+    },
+    "author": "mohammad sharif feiz feiz.ms@gmail.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mohammadFeiz/boxit-auth/issues"
+    },
+    "homepage": "https://github.com/mohammadFeiz/boxit-auth#readme"
+}
